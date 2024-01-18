@@ -1,7 +1,7 @@
 **Project Title: Tic-tac-toe App**
 
 1. Introduction
-The Tic-tac-toe game and its popularity as a simple yet engaging two-player game.
+- The Tic-tac-toe game and its popularity as a simple yet engaging two-player game.
 
 2. Front-End Design / Back-End Logic 
 - Layout and Components: Android XML for layouts. Elements include a 3x3 grid of buttons and a reset button.
@@ -29,6 +29,6 @@ The Tic-tac-toe game and its popularity as a simple yet engaging two-player game
 - Localization: Support for multiple languages.
 
 5. Challenges Faced
-We had issues for setup our PCs, as SDK version issue. Also, we had difficult to implement the player’s name.
+- We had issues for setup our PCs, as SDK version issue. Also, we had difficult to implement the player’s name.
 Moreover, we had some bugs in the game logic. 
 
