@@ -1,4 +1,4 @@
-Project Title: Tic-tac-toe App
+**Project Title: Tic-tac-toe App**
 
 1. Introduction
 The Tic-tac-toe game and its popularity as a simple yet engaging two-player game.
